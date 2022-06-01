@@ -83,6 +83,7 @@
                     </view>
                     <connections>
                         <outlet property="computerBallCountLbl" destination="wyp-J6-JMS" id="D6m-dl-rq6"/>
+                        <outlet property="resultLbl" destination="xjy-aV-Zjy" id="KPE-oG-yT4"/>
                         <outlet property="userBallCountLbl" destination="deS-kz-F8L" id="9Z8-9V-o4m"/>
                     </connections>
                 </viewController>
