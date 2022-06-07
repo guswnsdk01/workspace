@@ -19,6 +19,7 @@
 		BF4BF351284B461900396BEF /* gamestart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF4BF34E284B461900396BEF /* gamestart.mp3 */; };
 		BF4BF352284B461900396BEF /* intro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF4BF34F284B461900396BEF /* intro.mp3 */; };
 		BF4BF353284B461900396BEF /* click.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BF4BF350284B461900396BEF /* click.mp3 */; };
+		BFC86A42284FB1F0005AC57D /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC86A41284FB1F0005AC57D /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		BF4BF34E284B461900396BEF /* gamestart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = gamestart.mp3; path = ../../../gamestart.mp3; sourceTree = "<group>"; };
 		BF4BF34F284B461900396BEF /* intro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = intro.mp3; path = ../../../intro.mp3; sourceTree = "<group>"; };
 		BF4BF350284B461900396BEF /* click.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = click.mp3; path = ../../../click.mp3; sourceTree = "<group>"; };
+		BFC86A41284FB1F0005AC57D /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				BF31822C283F4D9F00F080CF /* Assets.xcassets */,
 				BF31822E283F4D9F00F080CF /* LaunchScreen.storyboard */,
 				BF318231283F4D9F00F080CF /* Info.plist */,
+				BFC86A41284FB1F0005AC57D /* SettingViewController.swift */,
 			);
 			path = OddOrEvenGame;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 				BF318228283F4D9B00F080CF /* ViewController.swift in Sources */,
 				BF318224283F4D9B00F080CF /* AppDelegate.swift in Sources */,
 				BF318226283F4D9B00F080CF /* SceneDelegate.swift in Sources */,
+				BFC86A42284FB1F0005AC57D /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
