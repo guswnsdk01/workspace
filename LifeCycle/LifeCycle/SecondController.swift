@@ -1,8 +1,8 @@
 //
-//  SecondControllerViewController.swift
+//  SecondController.swift
 //  LifeCycle
 //
-//  Created by 남현준 on 2022/06/07.
+//  Created by 남현준 on 2022/06/08.
 //
 
 import UIKit

@@ -16,7 +16,7 @@
 		BF748347284E53EC0020ADD2 /* LifeCycleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF748346284E53EC0020ADD2 /* LifeCycleTests.swift */; };
 		BF748351284E53EC0020ADD2 /* LifeCycleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF748350284E53EC0020ADD2 /* LifeCycleUITests.swift */; };
 		BF748353284E53EC0020ADD2 /* LifeCycleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF748352284E53EC0020ADD2 /* LifeCycleUITestsLaunchTests.swift */; };
-		BF748360284E58680020ADD2 /* SecondController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF74835F284E58680020ADD2 /* SecondController.swift */; };
+		BFC86A40284FAA75005AC57D /* SecondController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC86A3F284FAA75005AC57D /* SecondController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		BF74834C284E53EC0020ADD2 /* LifeCycleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LifeCycleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF748350284E53EC0020ADD2 /* LifeCycleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LifeCycleUITests.swift; sourceTree = "<group>"; };
 		BF748352284E53EC0020ADD2 /* LifeCycleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LifeCycleUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		BF74835F284E58680020ADD2 /* SecondController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondController.swift; sourceTree = "<group>"; };
+		BFC86A3F284FAA75005AC57D /* SecondController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +108,7 @@
 				BF748338284E53EC0020ADD2 /* Assets.xcassets */,
 				BF74833A284E53EC0020ADD2 /* LaunchScreen.storyboard */,
 				BF74833D284E53EC0020ADD2 /* Info.plist */,
-				BF74835F284E58680020ADD2 /* SecondController.swift */,
+				BFC86A3F284FAA75005AC57D /* SecondController.swift */,
 			);
 			path = LifeCycle;
 			sourceTree = "<group>";
@@ -262,8 +262,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF748334284E53EB0020ADD2 /* ViewController.swift in Sources */,
+				BFC86A40284FAA75005AC57D /* SecondController.swift in Sources */,
 				BF748330284E53EB0020ADD2 /* AppDelegate.swift in Sources */,
-				BF748360284E58680020ADD2 /* SecondController.swift in Sources */,
 				BF748332284E53EB0020ADD2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
